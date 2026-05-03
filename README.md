@@ -71,7 +71,7 @@ The study demonstrates that reasoning ability in LLMs is strongly dependent on m
 
 ## 📄 Research Paper
 
-👉 [Read Full Paper](https://github.com/palak0013/LLM-prompt-engineering-research.git)
+👉 [Read Full Paper](./LLM_Prompt_Engineering_Research.pdf)
 
 ---
 
